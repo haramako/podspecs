@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'CocoaWebsocket'
-  s.version  = '0.1.0'
+  s.version  = '1.0.0'
   s.license  = 'ZLIB-LICENSE'
   s.summary  = 'Websocket implementation in Objective-C.'
   s.homepage = 'https://github.com/erichocean/cocoa-websocket'
